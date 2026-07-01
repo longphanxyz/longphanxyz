@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-  <video src="https://files.catbox.moe/o7svih.mp4" width="100%" autoplay muted loop playsinline controls></video>
+  <a href="https://files.catbox.moe/o7svih.mp4">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:111827,100:1D4ED8&text=OPEN%20VIDEO%20I&fontColor=FFFFFF&fontSize=44&animation=twinkling&desc=click%20to%20watch%20the%20hosted%20clip&descSize=18&descAlignY=70&stroke=5FA8E8&strokeWidth=1" width="100%" alt="Open video 1" />
+  </a>
 </p>
 
 <h2 align="center">stack / tools / workflow</h2>
@@ -43,7 +45,9 @@
 </p>
 
 <p align="center">
-  <video src="https://files.catbox.moe/otye6j.mp4" width="100%" autoplay muted loop playsinline controls></video>
+  <a href="https://files.catbox.moe/otye6j.mp4">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:111827,100:22C55E&text=OPEN%20VIDEO%20II&fontColor=FFFFFF&fontSize=44&animation=twinkling&desc=click%20to%20watch%20the%20second%20clip&descSize=18&descAlignY=70&stroke=86EFAC&strokeWidth=1" width="100%" alt="Open video 2" />
+  </a>
 </p>
 
 <p align="center">
