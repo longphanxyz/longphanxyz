@@ -13,9 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://files.catbox.moe/o7svih.mp4">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:111827,100:1D4ED8&text=%E2%96%B6&fontColor=FFFFFF&fontSize=98&animation=twinkling&desc=visual%2001&descSize=26&descAlignY=72&stroke=5FA8E8&strokeWidth=1" width="100%" alt="Video 1" />
-  </a>
+  <img src="https://files.catbox.moe/afolc5.gif" width="100%" alt="Visual 1" />
 </p>
 
 <h2 align="center">stack / tools / workflow</h2>
@@ -45,9 +43,7 @@
 </p>
 
 <p align="center">
-  <a href="https://files.catbox.moe/otye6j.mp4">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:111827,100:22C55E&text=%E2%96%B6&fontColor=FFFFFF&fontSize=98&animation=twinkling&desc=visual%2002&descSize=26&descAlignY=72&stroke=86EFAC&strokeWidth=1" width="100%" alt="Video 2" />
-  </a>
+  <img src="https://files.catbox.moe/vlvju9.gif" width="100%" alt="Visual 2" />
 </p>
 
 <p align="center">
