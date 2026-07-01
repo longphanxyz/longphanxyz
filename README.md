@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,35:1D4ED8,68:22C55E,100:0B1220&text=longphanxyz&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=python%20%2F%20bash%20%2F%20powershell%20%2F%20cli%20automation&descAlignY=62&descSize=22" width="100%" alt="longphanxyz header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,35:1D4ED8,68:22C55E,100:0B1220&text=longphanxyz&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=keep%20moving%20%2F%20keep%20building%20%2F%20never%20quit&descAlignY=62&descSize=22" width="100%" alt="longphanxyz header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=8FD3FF&center=true&vCenter=true&width=980&lines=Python+is+primary;Bash+is+daily+work;PowerShell+when+Windows+needs+to+move;ChatGPT+%2B+Claude+%2B+Gemini+inside+the+workflow;ADB+%2F+npm+%2F+GitLab+%2F+Linux+%2F+Termux" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3200&pause=1300&color=8FD3FF&center=true&vCenter=true&width=1200&lines=%C3%81nh%20s%C3%A1ng%20ch%E1%BB%89%20xu%E1%BA%A5t%20hi%E1%BB%87n%20sau%20b%C3%B3ng%20t%E1%BB%91i%20%E2%80%93%20c%E1%BB%A9%20%C4%91i%20ti%E1%BA%BFp.;Th%E1%BA%A5t%20b%E1%BA%A1i%20l%C3%A0%20m%E1%BB%99t%20ph%E1%BA%A7n%20c%E1%BB%A7a%20h%C3%A0nh%20tr%C3%ACnh%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C4%91i%E1%BB%83m%20k%E1%BA%BFt%20th%C3%BAc.;Ng%C3%A0y%20mai%20lu%C3%B4n%20l%C3%A0%20c%C6%A1%20h%E1%BB%99i%20%C4%91%E1%BB%83%20l%C3%A0m%20l%E1%BA%A1i%2C%20mi%E1%BB%85n%20l%C3%A0%20b%E1%BA%A1n%20kh%C3%B4ng%20t%E1%BB%AB%20b%E1%BB%8F%20h%C3%B4m%20nay.;B%E1%BA%A1n%20kh%C3%B4ng%20th%E1%BA%A5t%20b%E1%BA%A1i%20cho%20%C4%91%E1%BA%BFn%20khi%20b%E1%BA%A1n%20t%E1%BB%AB%20b%E1%BB%8F.;Ng%C3%A3%20%E1%BB%9F%20%C4%91%C3%A2u%2C%20%C4%91%E1%BB%A9ng%20d%E1%BA%ADy%20%E1%BB%9F%20%C4%91%C3%B3%20%E2%80%93%20%C4%91%C3%B3%20m%E1%BB%9Bi%20l%C3%A0%20b%E1%BA%A3n%20l%C4%A9nh.;Th%E1%BA%A5t%20b%E1%BA%A1i%20ch%E1%BB%89%20l%C3%A0%20c%C6%A1%20h%E1%BB%99i%20%C4%91%E1%BB%83%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20l%E1%BA%A1i%20m%E1%BB%99t%20c%C3%A1ch%20th%C3%B4ng%20minh%20h%C6%A1n.%20%E2%80%93%20Henry%20Ford;M%E1%BA%A1nh%20m%E1%BA%BD%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20g%E1%BB%A5c%20ng%C3%A3%2C%20m%C3%A0%20l%C3%A0%20bi%E1%BA%BFt%20%C4%91%E1%BB%A9ng%20d%E1%BA%ADy%20sau%20m%E1%BB%97i%20l%E1%BA%A7n%20v%E1%BA%A5p%20ng%C3%A3.;M%E1%BB%97i%20th%E1%BA%A5t%20b%E1%BA%A1i%20l%C3%A0%20m%E1%BB%99t%20b%C3%A0i%20h%E1%BB%8Dc%2C%20mi%E1%BB%85n%20l%C3%A0%20b%E1%BA%A1n%20ch%E1%BB%8Bu%20h%E1%BB%8Dc.;Th%C3%A0nh%20c%C3%B4ng%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20th%E1%BA%A5t%20b%E1%BA%A1i%2C%20m%C3%A0%20l%C3%A0%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20b%E1%BB%8F%20cu%E1%BB%99c.%20%E2%80%93%20Winston%20Churchill;Kh%C3%B4ng%20ai%20t%E1%BB%ABng%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91i%E1%BB%81u%20v%C4%A9%20%C4%91%E1%BA%A1i%20m%C3%A0%20ch%C6%B0a%20t%E1%BB%ABng%20v%E1%BA%A5p%20ng%C3%A3." alt="typing animation" />
 </p>
 
 <p align="center">
@@ -13,17 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="coding chill gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="animated divider" />
 </p>
-
-```text
-primary  :: python
-daily    :: bash
-extra    :: powershell
-runtime  :: linux / termux
-flow     :: cli tools / automation / adb / npm / utility scripts
-assist   :: chatgpt / claude / gemini
-```
 
 <h2 align="center">stack / tools / workflow</h2>
 
@@ -49,17 +40,6 @@ assist   :: chatgpt / claude / gemini
   <img src="https://img.shields.io/badge/Linux-daily%20driver-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-real%20work-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Python-main%20language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-<h2 align="center">github / signal</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=longphanxyz&show_icons=true&theme=transparent&hide_border=true&title_color=8FD3FF&text_color=E5E7EB&icon_color=5FA8E8&ring_color=22C55E" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphanxyz&layout=compact&theme=transparent&hide_border=true&title_color=8FD3FF&text_color=E5E7EB" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=longphanxyz&theme=transparent&hide_border=true&stroke=1F3B5A&ring=22C55E&fire=F4C55A&currStreakLabel=E5E7EB&sideLabels=8FD3FF&dates=94A3B8" alt="GitHub streak" />
 </p>
 
 <p align="center">
